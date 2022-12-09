@@ -13,7 +13,7 @@
 edition = "2021"
 rust-version = "1.56"
 name = "der_derive"
-version = "0.6.0"
+version = "0.6.1"
 authors = ["RustCrypto Developers"]
 description = "Custom derive support for the `der` crate's `Choice` and `Sequence` traits"
 documentation = "https://docs.rs/der"
@@ -34,7 +34,6 @@ categories = [
 ]
 license = "Apache-2.0 OR MIT"
 repository = "https://github.com/RustCrypto/formats/tree/master/der/derive"
-resolver = "2"
 
 [lib]
 proc-macro = true
