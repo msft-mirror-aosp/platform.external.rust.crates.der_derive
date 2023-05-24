@@ -42,7 +42,7 @@ rust_proc_macro {
         "libproc_macro2",
         "libproc_macro_error",
         "libquote",
-        "libsyn",
+        "libsyn_deprecated",
     ],
     compile_multilib: "first",
     product_available: true,
