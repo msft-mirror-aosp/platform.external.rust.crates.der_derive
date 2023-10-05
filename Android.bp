@@ -45,6 +45,4 @@ rust_proc_macro {
         "libsyn_deprecated",
     ],
     compile_multilib: "first",
-    product_available: true,
-    vendor_available: true,
 }
