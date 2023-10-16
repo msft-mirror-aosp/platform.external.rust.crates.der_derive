@@ -1,4 +1,7 @@
 {
   "host-first-multilib": true,
-  "run": true
+  "run": true,
+  "dep-suffixes": {
+    "syn": "_deprecated"
+  }
 }
